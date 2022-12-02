@@ -6,9 +6,6 @@
 
 [![jake484's GitHub stats](https://github-readme-stats.vercel.app/api?username=jake484&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jake484)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### Education
 
 - Bachelor's degree in New Energy Science and Engineering, Xi'an Jiaotong University, 2017-2021
